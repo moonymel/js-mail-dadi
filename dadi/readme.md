@@ -6,10 +6,10 @@ Che ci sia un array da qualche parte?
 Se dobbiamo confrontare qualcosa che "cosa" ci serve?
 
 
-Creare un array con numeri da 1 a 6
-Creare un ciclo for dell'array
-Creare una variabile con un numero random dell'array (tramite Math.random() e Math.floor()) per l'utente
-Creare una variabile con un numero random dell'array (tramite Math.random() e Math.floor()) per il computer
-    ? numero utente > numero computer
-        stampare in console: hai vinto!
-    ; stampare in console: hai perso
+Creo una variabile con numero random tra 1 e 6 per l'utente
+Creo una variabile con numero random tra 1 e 6 per il computer
+    ? utente > computer 
+        stampo hai vinto
+    ? utente == computer 
+        stampo hai pareggiato
+    ; stampo hai perso
